@@ -1,0 +1,533 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2886,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2886,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2886,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2886,
+      "type": "VEC3",
+      "max": [
+        0.421080649,
+        0.592156947,
+        1.67930877
+      ],
+      "min": [
+        -0.421080649,
+        -0.399607241,
+        -1.21122646
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5121,
+      "count": 2886,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 2886,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5123,
+      "count": 12942,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "glTF Tools for Unity",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 23088
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23088,
+      "byteLength": 34632
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57720,
+      "byteLength": 46176
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 103896,
+      "byteLength": 34632
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 138528,
+      "byteLength": 11544
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 150072,
+      "byteLength": 46176
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 196248,
+      "byteLength": 25884
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "SK_Dolphin.bin",
+      "byteLength": 222132
+    }
+  ],
+  "images": [
+    {
+      "uri": "SK_Dolphin_baseColor.png"
+    },
+    {
+      "uri": "SK_Dolphin_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "SK_Dolphin_normal.png"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "POSITION": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 6,
+          "material": 0
+        }
+      ],
+      "name": "SK_Dolphin"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "name": "New Material"
+    }
+  ],
+  "nodes": [
+    {
+      "rotation": [
+        -1.85797475E-07,
+        -1.28378739E-08,
+        0.06893172,
+        0.9976214
+      ],
+      "scale": [
+        1.00000012,
+        1.00000012,
+        1.0
+      ],
+      "translation": [
+        -0.16888018,
+        -0.180114433,
+        -1.90734859E-08
+      ],
+      "name": "Dolphin_Jaw"
+    },
+    {
+      "children": [
+        0
+      ],
+      "rotation": [
+        -5.942123E-09,
+        4.917995E-10,
+        0.0824822262,
+        0.9965925
+      ],
+      "translation": [
+        -0.299999982,
+        2.002716E-06,
+        -1.42108547E-14
+      ],
+      "name": "Dolphin_Head"
+    },
+    {
+      "rotation": [
+        -0.041194804,
+        0.194394246,
+        0.905903161,
+        0.373969853
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.99999994
+      ],
+      "translation": [
+        -0.154702887,
+        -0.266521364,
+        0.16735445
+      ],
+      "name": "Dolphin_PectotalFinLeft"
+    },
+    {
+      "rotation": [
+        -0.354004,
+        -0.8979992,
+        -0.22874403,
+        0.126312256
+      ],
+      "scale": [
+        0.99999994,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -0.154702887,
+        -0.266521335,
+        -0.166999921
+      ],
+      "name": "Dolphin_PectotalFinRight"
+    },
+    {
+      "children": [
+        1,
+        2,
+        3
+      ],
+      "rotation": [
+        -1.22464685E-16,
+        5.960465E-08,
+        1.22464685E-16,
+        1.0
+      ],
+      "translation": [
+        -0.299999982,
+        -9.536743E-09,
+        3.57627847E-08
+      ],
+      "name": "Dolphin_Spine2"
+    },
+    {
+      "children": [
+        4
+      ],
+      "rotation": [
+        -1.20626E-07,
+        -1.20626E-07,
+        0.7071068,
+        0.7071067
+      ],
+      "scale": [
+        0.99999994,
+        0.9999999,
+        0.99999994
+      ],
+      "translation": [
+        0.0,
+        -4.371137E-09,
+        -8.182981E-24
+      ],
+      "name": "Dolphin_Spine1"
+    },
+    {
+      "rotation": [
+        0.0,
+        0.0,
+        -0.1701562,
+        0.9854171
+      ],
+      "translation": [
+        -0.22735925,
+        -2.38418574E-09,
+        0.0
+      ],
+      "name": "Dolphin_CaudalFinLeft2"
+    },
+    {
+      "children": [
+        6
+      ],
+      "rotation": [
+        -0.617687464,
+        0.344183475,
+        0.442174345,
+        0.5517987
+      ],
+      "scale": [
+        1.0,
+        0.9999998,
+        0.9999998
+      ],
+      "translation": [
+        -0.184628561,
+        0.0163946524,
+        0.0505958833
+      ],
+      "name": "Dolphin_CaudalFinLeft1"
+    },
+    {
+      "rotation": [
+        0.0,
+        0.0,
+        0.170156345,
+        0.985417068
+      ],
+      "scale": [
+        1.00000012,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -0.22735925,
+        0.0,
+        0.0
+      ],
+      "name": "Dolphin_CaudalFinRight2"
+    },
+    {
+      "children": [
+        8
+      ],
+      "rotation": [
+        -0.5517988,
+        -0.442174375,
+        -0.3441835,
+        0.6176874
+      ],
+      "scale": [
+        0.999999762,
+        0.99999994,
+        0.9999998
+      ],
+      "translation": [
+        -0.184628591,
+        0.0163945,
+        -0.0509999245
+      ],
+      "name": "Dolphin_CaudalFinRight1"
+    },
+    {
+      "children": [
+        7,
+        9
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0290856622,
+        0.9995769
+      ],
+      "scale": [
+        0.99999994,
+        0.99999994,
+        1.0
+      ],
+      "translation": [
+        -0.2214331,
+        0.0,
+        -2.90683317E-08
+      ],
+      "name": "Dolphin_Tail6"
+    },
+    {
+      "children": [
+        10
+      ],
+      "rotation": [
+        8.803209E-12,
+        6.090249E-10,
+        -0.014453087,
+        0.9998956
+      ],
+      "scale": [
+        0.99999994,
+        0.99999994,
+        1.0
+      ],
+      "translation": [
+        -0.2211412,
+        9.536743E-07,
+        -2.91283584E-08
+      ],
+      "name": "Dolphin_Tail5"
+    },
+    {
+      "children": [
+        11
+      ],
+      "rotation": [
+        1.19912112E-16,
+        3.279691E-15,
+        -0.03653761,
+        0.9993323
+      ],
+      "scale": [
+        1.00000048,
+        1.00000048,
+        1.0
+      ],
+      "translation": [
+        -0.265228927,
+        0.0,
+        -3.51018272E-08
+      ],
+      "name": "Dolphin_Tail4"
+    },
+    {
+      "children": [
+        12
+      ],
+      "rotation": [
+        -2.00104347E-16,
+        2.87801819E-18,
+        -0.0143810995,
+        0.9998966
+      ],
+      "scale": [
+        0.9999998,
+        0.9999998,
+        1.0
+      ],
+      "translation": [
+        -0.289775074,
+        -1.90734841E-08,
+        -3.83676166E-08
+      ],
+      "name": "Dolphin_Tail3"
+    },
+    {
+      "children": [
+        13
+      ],
+      "rotation": [
+        -3.13746042E-08,
+        2.68307665E-09,
+        -0.0852064639,
+        0.996363342
+      ],
+      "translation": [
+        -0.286628872,
+        -1.49011609E-10,
+        -3.40359136E-08
+      ],
+      "name": "Dolphin_Tail2"
+    },
+    {
+      "children": [
+        14
+      ],
+      "rotation": [
+        9.766669E-08,
+        -9.05112358E-08,
+        -0.679727852,
+        0.7334644
+      ],
+      "scale": [
+        0.99999994,
+        0.99999994,
+        1.0
+      ],
+      "translation": [
+        -3.97232025E-10,
+        -4.76836926E-09,
+        0.0
+      ],
+      "name": "Dolphin_Tail1"
+    },
+    {
+      "children": [
+        5,
+        15
+      ],
+      "rotation": [
+        5.268358E-08,
+        -0.70710665,
+        5.26835571E-08,
+        0.707106948
+      ],
+      "scale": [
+        0.99999994,
+        1.0,
+        0.99999994
+      ],
+      "name": "Dolphin_Root"
+    },
+    {
+      "children": [
+        16
+      ],
+      "rotation": [
+        0.7071068,
+        0.0,
+        0.0,
+        0.7071068
+      ],
+      "name": "root"
+    },
+    {
+      "mesh": 0,
+      "name": "SK_Dolphin"
+    },
+    {
+      "children": [
+        17,
+        18
+      ],
+      "name": "SK_Dolphin"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        19
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "source": 0
+    },
+    {
+      "source": 1
+    },
+    {
+      "source": 2
+    }
+  ]
+}
