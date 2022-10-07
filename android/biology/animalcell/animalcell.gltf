@@ -2435,13 +2435,7 @@
       "uri": "animalcell_normal4.png"
     },
     {
-      "uri": "animalcell_baseColor5.png"
-    },
-    {
-      "uri": "animalcell_roughnessMetallic5.png"
-    },
-    {
-      "uri": "animalcell_normal5.png"
+      "uri": "animalcell_baseColor6.png"
     },
     {
       "uri": "animalcell_roughnessMetallic6.png"
@@ -2450,13 +2444,13 @@
       "uri": "animalcell_normal6.png"
     },
     {
-      "uri": "animalcell_baseColor7.png"
-    },
-    {
       "uri": "animalcell_roughnessMetallic7.png"
     },
     {
       "uri": "animalcell_normal7.png"
+    },
+    {
+      "uri": "animalcell_baseColor8.png"
     },
     {
       "uri": "animalcell_roughnessMetallic8.png"
@@ -2511,15 +2505,6 @@
     },
     {
       "uri": "animalcell_baseColor14.png"
-    },
-    {
-      "uri": "animalcell_roughnessMetallic14.png"
-    },
-    {
-      "uri": "animalcell_normal14.png"
-    },
-    {
-      "uri": "animalcell_baseColor16.png"
     }
   ],
   "meshes": [
@@ -2693,7 +2678,7 @@
             "POSITION": 63
           },
           "indices": 64,
-          "material": 6
+          "material": 5
         }
       ],
       "name": "MitochondrionOuterMembrane_00"
@@ -2709,7 +2694,7 @@
             "POSITION": 69
           },
           "indices": 70,
-          "material": 7
+          "material": 6
         }
       ],
       "name": "MitochondrionSliceInnerMembrane"
@@ -2725,7 +2710,7 @@
             "POSITION": 75
           },
           "indices": 76,
-          "material": 8
+          "material": 7
         }
       ],
       "name": "MitochondrionSliceOuterMembrane"
@@ -2741,7 +2726,7 @@
             "POSITION": 81
           },
           "indices": 82,
-          "material": 9
+          "material": 8
         }
       ],
       "name": "NuclearEnvelope_00"
@@ -2757,7 +2742,7 @@
             "POSITION": 87
           },
           "indices": 88,
-          "material": 9
+          "material": 8
         }
       ],
       "name": "NuclearEnvelope_01"
@@ -2773,7 +2758,7 @@
             "POSITION": 93
           },
           "indices": 94,
-          "material": 9
+          "material": 8
         }
       ],
       "name": "NuclearEnvelope_02"
@@ -2789,7 +2774,7 @@
             "POSITION": 99
           },
           "indices": 100,
-          "material": 10
+          "material": 9
         }
       ],
       "name": "NuclearNucleolus"
@@ -2806,7 +2791,7 @@
             "POSITION": 106
           },
           "indices": 107,
-          "material": 9
+          "material": 8
         }
       ],
       "name": "NuclearPore_00"
@@ -2822,7 +2807,7 @@
             "POSITION": 112
           },
           "indices": 113,
-          "material": 9
+          "material": 8
         }
       ],
       "name": "NuclearPore_01"
@@ -2838,7 +2823,7 @@
             "POSITION": 118
           },
           "indices": 119,
-          "material": 11
+          "material": 10
         }
       ],
       "name": "PlasmaMembrane"
@@ -2854,7 +2839,7 @@
             "POSITION": 124
           },
           "indices": 125,
-          "material": 12
+          "material": 11
         }
       ],
       "name": "ReticulumCisternae_00"
@@ -2870,7 +2855,7 @@
             "POSITION": 130
           },
           "indices": 131,
-          "material": 12
+          "material": 11
         }
       ],
       "name": "ReticulumCisternae_01"
@@ -2886,7 +2871,7 @@
             "POSITION": 136
           },
           "indices": 137,
-          "material": 12
+          "material": 11
         }
       ],
       "name": "ReticulumRough"
@@ -2902,7 +2887,7 @@
             "POSITION": 142
           },
           "indices": 143,
-          "material": 12
+          "material": 11
         }
       ],
       "name": "ReticulumSmooth"
@@ -2917,7 +2902,7 @@
             "POSITION": 147
           },
           "indices": 148,
-          "material": 13
+          "material": 12
         }
       ],
       "name": "Ribosome"
@@ -2933,7 +2918,7 @@
             "POSITION": 153
           },
           "indices": 154,
-          "material": 14
+          "material": 13
         }
       ],
       "name": "Сitoskeleton"
@@ -2963,7 +2948,7 @@
             "POSITION": 163
           },
           "indices": 164,
-          "material": 15
+          "material": 5
         }
       ],
       "name": "Text.026"
@@ -2977,7 +2962,7 @@
             "POSITION": 167
           },
           "indices": 168,
-          "material": 15
+          "material": 5
         }
       ],
       "name": "Text.027"
@@ -2991,7 +2976,7 @@
             "POSITION": 171
           },
           "indices": 172,
-          "material": 15
+          "material": 5
         }
       ],
       "name": "Text.028"
@@ -3005,7 +2990,7 @@
             "POSITION": 175
           },
           "indices": 176,
-          "material": 15
+          "material": 5
         }
       ],
       "name": "Text.029"
@@ -3019,7 +3004,7 @@
             "POSITION": 179
           },
           "indices": 180,
-          "material": 15
+          "material": 5
         }
       ],
       "name": "Text.030"
@@ -3034,7 +3019,7 @@
             "POSITION": 184
           },
           "indices": 185,
-          "material": 16
+          "material": 14
         }
       ],
       "name": "Plane"
@@ -3145,6 +3130,19 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
+          0.639605343,
+          0.639605343,
+          0.639605343,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "New Material"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
           0.304987371,
           0.304987371,
           0.304987371,
@@ -3160,47 +3158,6 @@
       "normalTexture": {
         "index": 17
       },
-      "name": "MitochondrionOpaque"
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.304987371,
-          0.304987371,
-          0.304987371,
-          0.687
-        ],
-        "baseColorTexture": {
-          "index": 15
-        },
-        "metallicRoughnessTexture": {
-          "index": 18
-        }
-      },
-      "normalTexture": {
-        "index": 19
-      },
-      "alphaMode": "BLEND",
-      "name": "MitochondrionTransparent"
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.304987371,
-          0.304987371,
-          0.304987371,
-          1.0
-        ],
-        "baseColorTexture": {
-          "index": 20
-        },
-        "metallicRoughnessTexture": {
-          "index": 21
-        }
-      },
-      "normalTexture": {
-        "index": 22
-      },
       "name": "MitochondrionSliceOpaque"
     },
     {
@@ -3212,14 +3169,14 @@
           0.716
         ],
         "baseColorTexture": {
-          "index": 20
+          "index": 15
         },
         "metallicRoughnessTexture": {
-          "index": 23
+          "index": 18
         }
       },
       "normalTexture": {
-        "index": 24
+        "index": 19
       },
       "alphaMode": "BLEND",
       "name": "MitochondrionSliceTransparent"
@@ -3233,14 +3190,14 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 25
+          "index": 20
         },
         "metallicRoughnessTexture": {
-          "index": 26
+          "index": 21
         }
       },
       "normalTexture": {
-        "index": 27
+        "index": 22
       },
       "name": "Nucleus"
     },
@@ -3253,14 +3210,14 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 28
+          "index": 23
         },
         "metallicRoughnessTexture": {
-          "index": 29
+          "index": 24
         }
       },
       "normalTexture": {
-        "index": 30
+        "index": 25
       },
       "name": "NuclearNucleolus"
     },
@@ -3273,14 +3230,14 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 31
+          "index": 26
         },
         "metallicRoughnessTexture": {
-          "index": 32
+          "index": 27
         }
       },
       "normalTexture": {
-        "index": 33
+        "index": 28
       },
       "name": "PlasmaMembrane_Animal"
     },
@@ -3293,14 +3250,14 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 34
+          "index": 29
         },
         "metallicRoughnessTexture": {
-          "index": 35
+          "index": 30
         }
       },
       "normalTexture": {
-        "index": 36
+        "index": 31
       },
       "name": "Reticulum"
     },
@@ -3313,14 +3270,14 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 37
+          "index": 32
         },
         "metallicRoughnessTexture": {
-          "index": 38
+          "index": 33
         }
       },
       "normalTexture": {
-        "index": 39
+        "index": 34
       },
       "name": "Ribosome"
     },
@@ -3333,34 +3290,21 @@
           1.0
         ],
         "baseColorTexture": {
-          "index": 40
+          "index": 35
         },
         "metallicRoughnessTexture": {
-          "index": 41
+          "index": 36
         }
       },
       "normalTexture": {
-        "index": 42
+        "index": 37
       },
       "name": "Сitoskeleton_Animal"
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.639605343,
-          0.639605343,
-          0.639605343,
-          1.0
-        ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.5
-      },
-      "name": "New Material"
-    },
-    {
-      "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43
+          "index": 38
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -7459,10 +7403,10 @@
     {
       "mesh": 32,
       "rotation": [
-        -0.5592908,
-        0.43265903,
-        0.43265903,
-        0.5592908
+        -0.6044784,
+        0.3668867,
+        0.3668867,
+        0.6044784
       ],
       "scale": [
         0.06,
@@ -7470,9 +7414,9 @@
         0.06
       ],
       "translation": [
-        0.179999486,
+        0.179998815,
         0.878000259,
-        0.117999867
+        0.117999479
       ],
       "name": "Plane"
     },
@@ -7488,9 +7432,9 @@
       ],
       "rotation": [
         0.0,
-        -0.197518438,
+        -0.870279849,
         0.0,
-        0.9802992
+        -0.492557615
       ],
       "scale": [
         0.2,
@@ -7498,9 +7442,9 @@
         0.2
       ],
       "translation": [
-        0.0150166154,
+        0.0174989514,
         1.11,
-        7.49214458
+        7.49778557
       ],
       "name": "animalcell"
     }
@@ -7630,21 +7574,6 @@
     },
     {
       "source": 38
-    },
-    {
-      "source": 39
-    },
-    {
-      "source": 40
-    },
-    {
-      "source": 41
-    },
-    {
-      "source": 42
-    },
-    {
-      "source": 43
     }
   ]
 }
