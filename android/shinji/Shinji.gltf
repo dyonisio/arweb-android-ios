@@ -1,0 +1,174 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 29886,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 29886,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 29886,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 29886,
+      "type": "VEC3",
+      "max": [
+        0.312754273,
+        1.15715921,
+        0.328721255
+      ],
+      "min": [
+        -0.510512948,
+        -0.09089068,
+        -0.2874457
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 163155,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "glTF Tools for Unity",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 239088
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 239088,
+      "byteLength": 358632
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 597720,
+      "byteLength": 478176
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1075896,
+      "byteLength": 358632
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1434528,
+      "byteLength": 326310
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Shinji.bin",
+      "byteLength": 1760838
+    }
+  ],
+  "images": [
+    {
+      "uri": "Shinji_baseColor.png"
+    },
+    {
+      "uri": "Shinji_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Shinji_normal.png"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "POSITION": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "Shinji_geo"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "name": "shinji"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Shinji_geo"
+    },
+    {
+      "children": [
+        0
+      ],
+      "rotation": [
+        0.0,
+        -0.999973953,
+        0.0,
+        -0.007220376
+      ],
+      "scale": [
+        10.0,
+        10.0,
+        10.0
+      ],
+      "translation": [
+        -1.980459,
+        0.0,
+        0.3984543
+      ],
+      "name": "Shinji"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "source": 0
+    },
+    {
+      "source": 1
+    },
+    {
+      "source": 2
+    }
+  ]
+}
