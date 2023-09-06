@@ -1,0 +1,419 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC3",
+      "max": [
+        0.234892368,
+        1.088232,
+        0.216624185
+      ],
+      "min": [
+        -0.234892368,
+        -0.00062496186,
+        -0.216624185
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 12342,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        0.009184509,
+        0.265755951,
+        0.374737471
+      ],
+      "min": [
+        1.976197E-16,
+        -3.81469718E-08,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        0.009184509,
+        0.265755951,
+        0.374737471
+      ],
+      "min": [
+        1.976197E-16,
+        -3.81469718E-08,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "glTF Tools for Unity",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 28336
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28336,
+      "byteLength": 42504
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 70840,
+      "byteLength": 56672
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 127512,
+      "byteLength": 42504
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 170016,
+      "byteLength": 24684
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 194700,
+      "byteLength": 192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 194892,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 195180,
+      "byteLength": 384
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 195564,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 195852,
+      "byteLength": 72
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 195924,
+      "byteLength": 192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 196116,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 196404,
+      "byteLength": 384
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 196788,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 197076,
+      "byteLength": 72
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Cavalete.bin",
+      "byteLength": 197148
+    }
+  ],
+  "images": [
+    {
+      "uri": "Cavalete_baseColor.png"
+    },
+    {
+      "uri": "Cavalete_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Cavalete_normal.png"
+    },
+    {
+      "uri": "Cavalete_baseColor1.png"
+    },
+    {
+      "uri": "Cavalete_roughnessMetallic1.png"
+    },
+    {
+      "uri": "Cavalete_normal1.png"
+    },
+    {
+      "uri": "Cavalete_baseColor2.png"
+    },
+    {
+      "uri": "Cavalete_roughnessMetallic2.png"
+    },
+    {
+      "uri": "Cavalete_normal2.png"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "POSITION": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "Cavalete"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 5,
+            "NORMAL": 6,
+            "TANGENT": 7,
+            "POSITION": 8
+          },
+          "indices": 9,
+          "material": 1
+        }
+      ],
+      "name": "TelaPintura"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 10,
+            "NORMAL": 11,
+            "TANGENT": 12,
+            "POSITION": 13
+          },
+          "indices": 14,
+          "material": 2
+        }
+      ],
+      "name": "TelaPintura1"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "name": "Cavalete_mat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "name": "TelaPintura_mat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 8
+      },
+      "name": "TelaPintura1_mat"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [
+        -0.184992269,
+        0.0,
+        0.0
+      ],
+      "name": "Cavalete"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.08907199,
+        -0.9960252,
+        -1.05998947E-16,
+        -4.978589E-16
+      ],
+      "translation": [
+        0.0277572051,
+        0.406126052,
+        0.3769969
+      ],
+      "name": "TelaPintura"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.08907199,
+        -0.9960252,
+        -1.05998947E-16,
+        -4.978589E-16
+      ],
+      "translation": [
+        0.0277572051,
+        0.406126052,
+        -0.00129261019
+      ],
+      "name": "TelaPintura1"
+    },
+    {
+      "children": [
+        0,
+        1,
+        2
+      ],
+      "name": "Cavalete"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        3
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "source": 0
+    },
+    {
+      "source": 1
+    },
+    {
+      "source": 2
+    },
+    {
+      "source": 3
+    },
+    {
+      "source": 4
+    },
+    {
+      "source": 5
+    },
+    {
+      "source": 6
+    },
+    {
+      "source": 7
+    },
+    {
+      "source": 8
+    }
+  ]
+}
