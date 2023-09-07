@@ -3,29 +3,29 @@
     {
       "bufferView": 0,
       "componentType": 5126,
-      "count": 396951,
+      "count": 396826,
       "type": "VEC3"
     },
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 396951,
+      "count": 396826,
       "type": "VEC4"
     },
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 396951,
+      "count": 396826,
       "type": "VEC3",
       "max": [
-        26.3786659,
-        85.70961,
-        26.6584625
+        0.263786644,
+        0.8570961,
+        0.2665846
       ],
       "min": [
-        -26.50067,
-        -6.51786327,
-        -26.2199955
+        -0.2650067,
+        -0.06517863,
+        -0.262199938
       ]
     },
     {
@@ -122,78 +122,78 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 4763412
+      "byteLength": 4761912
     },
     {
       "buffer": 0,
-      "byteOffset": 4763412,
-      "byteLength": 6351216
+      "byteOffset": 4761912,
+      "byteLength": 6349216
     },
     {
       "buffer": 0,
-      "byteOffset": 11114628,
-      "byteLength": 4763412
+      "byteOffset": 11111128,
+      "byteLength": 4761912
     },
     {
       "buffer": 0,
-      "byteOffset": 15878040,
+      "byteOffset": 15873040,
       "byteLength": 4762128
     },
     {
       "buffer": 0,
-      "byteOffset": 20640168,
+      "byteOffset": 20635168,
       "byteLength": 28336
     },
     {
       "buffer": 0,
-      "byteOffset": 20668504,
+      "byteOffset": 20663504,
       "byteLength": 42504
     },
     {
       "buffer": 0,
-      "byteOffset": 20711008,
+      "byteOffset": 20706008,
       "byteLength": 56672
     },
     {
       "buffer": 0,
-      "byteOffset": 20767680,
+      "byteOffset": 20762680,
       "byteLength": 42504
     },
     {
       "buffer": 0,
-      "byteOffset": 20810184,
+      "byteOffset": 20805184,
       "byteLength": 24684
     },
     {
       "buffer": 0,
-      "byteOffset": 20834868,
+      "byteOffset": 20829868,
       "byteLength": 192
     },
     {
       "buffer": 0,
-      "byteOffset": 20835060,
+      "byteOffset": 20830060,
       "byteLength": 288
     },
     {
       "buffer": 0,
-      "byteOffset": 20835348,
+      "byteOffset": 20830348,
       "byteLength": 384
     },
     {
       "buffer": 0,
-      "byteOffset": 20835732,
+      "byteOffset": 20830732,
       "byteLength": 288
     },
     {
       "buffer": 0,
-      "byteOffset": 20836020,
+      "byteOffset": 20831020,
       "byteLength": 72
     }
   ],
   "buffers": [
     {
       "uri": "GameObject.bin",
-      "byteLength": 20836092
+      "byteLength": 20831092
     }
   ],
   "images": [
@@ -229,7 +229,7 @@
           "material": 0
         }
       ],
-      "name": "ZBrushPolyMesh3D"
+      "name": "Ana_castella_print_ZBrushPolyMesh3D"
     },
     {
       "primitives": [
@@ -266,14 +266,14 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.8,
-          0.8,
-          0.8,
+          0.4,
+          0.4,
+          0.4,
           1.0
         ],
         "metallicFactor": 0.0
       },
-      "name": "ZBrushPolyMesh3DMat"
+      "name": "lambert1"
     },
     {
       "pbrMetallicRoughness": {
@@ -310,29 +310,18 @@
   "nodes": [
     {
       "mesh": 0,
-      "name": "ZBrushPolyMesh3D"
-    },
-    {
-      "children": [
-        0
-      ],
       "rotation": [
         0.0,
         -0.7071068,
         0.0,
         0.7071068
       ],
-      "scale": [
-        0.009999999,
-        0.01,
-        0.009999999
-      ],
       "translation": [
         -0.148,
         0.067,
         -0.739
       ],
-      "name": "Ana_castella_print"
+      "name": "AnaCastela"
     },
     {
       "mesh": 1,
@@ -360,15 +349,15 @@
     },
     {
       "children": [
-        2,
-        3
+        1,
+        2
       ],
       "name": "Cavalete"
     },
     {
       "children": [
-        1,
-        4
+        0,
+        3
       ],
       "name": "GameObject"
     }
@@ -377,7 +366,7 @@
   "scenes": [
     {
       "nodes": [
-        5
+        4
       ]
     }
   ],
