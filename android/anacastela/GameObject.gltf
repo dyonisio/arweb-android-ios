@@ -290,8 +290,6 @@
       "occlusionTexture": {
         "index": 1
       },
-      "alphaMode": "MASK",
-      "doubleSided": true,
       "name": "Cavalete_mat"
     },
     {
