@@ -1,0 +1,406 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 396951,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 396951,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 396951,
+      "type": "VEC3",
+      "max": [
+        26.3786659,
+        85.70961,
+        26.6584625
+      ],
+      "min": [
+        -26.50067,
+        -6.51786327,
+        -26.2199955
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 2381064,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 3542,
+      "type": "VEC3",
+      "max": [
+        0.234892368,
+        1.088232,
+        0.216624185
+      ],
+      "min": [
+        -0.234892368,
+        -0.00062496186,
+        -0.216624185
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5123,
+      "count": 12342,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        0.009184509,
+        0.265755951,
+        0.374737471
+      ],
+      "min": [
+        1.976197E-16,
+        -3.81469718E-08,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "glTF Tools for Unity",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4763412
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4763412,
+      "byteLength": 6351216
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11114628,
+      "byteLength": 4763412
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15878040,
+      "byteLength": 4762128
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20640168,
+      "byteLength": 28336
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20668504,
+      "byteLength": 42504
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20711008,
+      "byteLength": 56672
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20767680,
+      "byteLength": 42504
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20810184,
+      "byteLength": 24684
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20834868,
+      "byteLength": 192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20835060,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20835348,
+      "byteLength": 384
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20835732,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20836020,
+      "byteLength": 72
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "GameObject.bin",
+      "byteLength": 20836092
+    }
+  ],
+  "images": [
+    {
+      "uri": "GameObject_baseColor1.png"
+    },
+    {
+      "uri": "GameObject_occlusionRoughnessMetallic1.png"
+    },
+    {
+      "uri": "GameObject_normal1.png"
+    },
+    {
+      "uri": "GameObject_baseColor2.png"
+    },
+    {
+      "uri": "GameObject_roughnessMetallic2.png"
+    },
+    {
+      "uri": "GameObject_normal2.png"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 0,
+            "TANGENT": 1,
+            "POSITION": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ],
+      "name": "ZBrushPolyMesh3D"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 4,
+            "NORMAL": 5,
+            "TANGENT": 6,
+            "POSITION": 7
+          },
+          "indices": 8,
+          "material": 1
+        }
+      ],
+      "name": "Cavalete"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 9,
+            "NORMAL": 10,
+            "TANGENT": 11,
+            "POSITION": 12
+          },
+          "indices": 13,
+          "material": 2
+        }
+      ],
+      "name": "TelaPintura"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      },
+      "name": "ZBrushPolyMesh3DMat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "name": "Cavalete_mat"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      },
+      "normalTexture": {
+        "index": 5
+      },
+      "name": "TelaPintura_mat"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "ZBrushPolyMesh3D"
+    },
+    {
+      "children": [
+        0
+      ],
+      "rotation": [
+        0.0,
+        -0.7071068,
+        0.0,
+        0.7071068
+      ],
+      "scale": [
+        0.009999999,
+        0.01,
+        0.009999999
+      ],
+      "translation": [
+        -0.148,
+        0.067,
+        -0.739
+      ],
+      "name": "Ana_castella_print"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        -0.184992269,
+        0.0,
+        0.0
+      ],
+      "name": "Cavalete"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.08907199,
+        -0.9960252,
+        -1.05998947E-16,
+        -4.978589E-16
+      ],
+      "translation": [
+        0.0277572051,
+        0.406126052,
+        0.203
+      ],
+      "name": "TelaPintura"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Cavalete"
+    },
+    {
+      "children": [
+        1,
+        4
+      ],
+      "name": "GameObject"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        5
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "source": 0
+    },
+    {
+      "source": 1
+    },
+    {
+      "source": 2
+    },
+    {
+      "source": 3
+    },
+    {
+      "source": 4
+    },
+    {
+      "source": 5
+    }
+  ]
+}
